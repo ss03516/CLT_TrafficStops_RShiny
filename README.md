@@ -11,7 +11,7 @@ In this application we tried to explore the following factors:
   <li> Relationship between Demographics & Traffic Stops
   <li> Relationship between the outcomes of stop with Driver's Race 
   <li> Underlying pattern between officers' experience in filed with the Stops and Searches 
-    
+ <ol>   
     
 
 <hr> 
@@ -27,3 +27,4 @@ How to run on your machine:
   <li> Open the folder: CMPD _Traffic_Stops_App (this should be inside your unzipped folder)
   <li> Open the 'CMPD_Traffic_Stops_Shiny' file  
   <li> Click on 'Run app' 
+<ol>
