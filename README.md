@@ -11,6 +11,6 @@ How to run on your machine:
 <ol>
   <li> Download the enitre repository as zip by hitting the 'Code' button on top.
   <li> Unzip the downloaded folder
-  <li> Open the folder: CMPD _Traffic_Stops_App 
+  <li> Open the folder: CMPD _Traffic_Stops_App (this should be inside your unzipped folder)
   <li> Open the 'CMPD_Traffic_Stops_Shiny' file  
   <li> Click on 'Run app' 
