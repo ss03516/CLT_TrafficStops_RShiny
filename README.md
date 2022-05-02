@@ -9,10 +9,8 @@ Link to App: https://suffwan.shinyapps.io/CMPD_Traffic_Stops_2020-21/
 
 How to run on your machine: 
 <ol>
-  <li> Download the folder from this repository: CMPD _Traffic_Stops_App
-      <li> You can also download this entire repository 
+  <li> Download the enitre repository as zip by hitting the 'Code' button on top.
   <li> Unzip the downloaded folder
-  <li> Open the folder; CMPD _Traffic_Stops_App 
-  <li> Launch the CMPD_Traffic_Stops project file in your R Studio
-    <li> Open the 'CMPD_Traffic_Stops_Shiny' file in your project 
+  <li> Open the folder: CMPD _Traffic_Stops_App 
+  <li> Open the 'CMPD_Traffic_Stops_Shiny' file  
   <li> Click on 'Run app' 
