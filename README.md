@@ -17,7 +17,7 @@ In this application we tried to explore the following factors:
 
 <hr> 
 
-Link to App: https://suffwan.shinyapps.io/CMPD_Traffic_Stops_2020-21/
+Link to App: **[Click Here](https://suffwan.shinyapps.io/CMPD_Traffic_Stops_2020-21/)** 
 
 <hr>
 
