@@ -1,5 +1,13 @@
 # Charlotte Traffic Stops RShiny Application
-A multi-dimensional analysis of Traffic Stops occurred during the year 2020 and 2021 in all CMPD Divisions. 
+A multi-dimensional analysis of Traffic Stops occurred during the year 2020 and 2021 in all CMPD Divisions. Our main objective was to explore multiple factors which might have any correlation with the policing practices. 
+In this application we tried to explore the following factors: 
+<ol>
+  <li> Racial breakdown of traffic stops by division
+  <li> Relationship between Demographics & Traffic Stops
+  <li> Relationship between the outcomes of stop with Driver's Race 
+  <li> Underlying pattern between officers' experience in filed with the Stops and Searches 
+    
+    
 
 <hr> 
 
