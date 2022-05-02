@@ -8,9 +8,9 @@ A multi-dimensional analysis of Traffic Stops occurred during the year 2020 and 
 In this application we tried to explore the following factors: 
 <ol>
   <li> Racial breakdown of traffic stops by division
-  <li> Relationship between Demographics & Traffic Stops
+  <li> Relationship between Demographics of CMPD Division & Traffic Stops
   <li> Relationship between the outcomes of stop with Driver's Race 
-  <li> Underlying pattern between officers' experience in filed with the Stops and Searches 
+  <li> Underlying patterns between officers' experience in filed with the Stops and Searches 
     
  </ol>   
     
